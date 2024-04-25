@@ -10,7 +10,7 @@ public class DatabaseExample {
         String dbName = "Employee"; // Database name
         String fullUrl = url + dbName; // Full URL to the database
         String user = "root"; // Database user
-        String password = "Vichea@168%"; // Database password
+        String password = "Your Password"; // Database password
 
         try {
             // First, attempt to create the database if it does not exist
